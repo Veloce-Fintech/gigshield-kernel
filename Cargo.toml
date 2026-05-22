@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "contracts/escrow_vault",
+    "contracts/compliance_guard",
+]
+resolver = "2"
+
+[workspace.package]
+edition = "2021"
+version = "0.1.0"
